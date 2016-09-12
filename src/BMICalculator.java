@@ -12,7 +12,7 @@ public class BMICalculator {
 		
 		String sBMI;
 		
-		System.out.println("Gewicht in KG: ");
+		System.out.println("Gewicht in KG:  ");
 		
 		weight = user_input.nextDouble();
 		
